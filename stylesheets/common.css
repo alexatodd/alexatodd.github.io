@@ -130,20 +130,26 @@
 	
 	#leftcolumn .leftbox p{padding-bottom:1em;line-height:1.5em; font-size:12px}	
 	/* center column */
-	.article_wrapper h2{color: #5699A7; font-size:2em;margin:10px 0;}
+	.article_wrapper h2{
+		color: #5699A7; 
+		font-size:2em;
+		margin:10px 0
+		width:600px;
+		overflow: hidden;
+	}
 	.article_wrapper p{padding-bottom:10px;font-size:1.3em;}	
 	/* right column */
 	.rightbox_wrapper{
 		background: #eeeded;
 		padding:5px;
 		margin-bottom: 20px;
-		width:500px;
+		width:277px;
 		overflow: hidden;
 		font-size:11px;
 		line-height: 18px;
 		color: #58584D;
 	}
-	.rightbox{border: 1px dashed #d9e0e8;width:500px;overflow: hidden;padding-bottom:6px;}
+	.rightbox{border: 1px dashed #d9e0e8;width:275px;overflow: hidden;padding-bottom:6px;}
 	.product_image{ float: left;margin: 6px 0 0 6px;}
 	.product_wrapper{float: right;width:200px;}
 	.product_wrapper h4{font-size:1.3em;color: #483F3D;font-weight: bold;padding-top:10px;}
