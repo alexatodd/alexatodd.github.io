@@ -137,13 +137,13 @@
 		background: #eeeded;
 		padding:5px;
 		margin-bottom: 20px;
-		width:277px;
+		width:500px;
 		overflow: hidden;
 		font-size:11px;
 		line-height: 18px;
 		color: #58584D;
 	}
-	.rightbox{border: 1px dashed #d9e0e8;width:275px;overflow: hidden;padding-bottom:6px;}
+	.rightbox{border: 1px dashed #d9e0e8;width:500px;overflow: hidden;padding-bottom:6px;}
 	.product_image{ float: left;margin: 6px 0 0 6px;}
 	.product_wrapper{float: right;width:200px;}
 	.product_wrapper h4{font-size:1.3em;color: #483F3D;font-weight: bold;padding-top:10px;}
