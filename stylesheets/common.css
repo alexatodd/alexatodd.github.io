@@ -111,7 +111,7 @@
 	#banner{
 		position: absolute;
 		height: 125px;
-		/*color: #a49c8f; */color: #99cc00;
+		/*color: #a49c8f; color: #99cc00;*/ color: #5b6236;
 		font-weight: bold;
 		padding:0 440px 0 7px;
 		bottom: 0;
@@ -134,7 +134,7 @@
 		color: #5699A7; 
 		font-size:2em;
 		margin:10px 0
-		width:600px;
+		width:400px;
 		overflow: hidden;
 	}
 	.article_wrapper p{padding-bottom:10px;font-size:1.3em;}	
