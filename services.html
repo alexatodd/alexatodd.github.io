@@ -53,11 +53,29 @@
 			<div class="article_wrapper">
 				<h2></h2>
 				<p></p>
-<?php
-$myfile = fopen("intro-short.txt", "r") or die("Unable to open file!");
-echo fread($myfile,filesize("intro-short.txt"));
-fclose($myfile);
-?>
+				<table>
+				<tr>
+				<?php for($l = 1; $l <=7; $l++) : ?>
+				<td align="center"><?=$l?></td>
+				<?php endfor; ?>
+				        </tr>
+				        <tr>
+				            <?php for($l = 1; $l <=7; $l++) : ?>
+				            <td align="center">
+				<?php if($l >= 5)  { 
+				        
+				        echo "yes";
+				    
+				    } else {
+
+				        echo "no";
+
+				    }
+				?>
+				</td>
+				<?php endfor; ?>
+				        </tr>    
+				</table>
 			</div>
 			<div class="article_wrapper">
 				<h2></h2>
