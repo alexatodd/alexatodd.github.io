@@ -15,7 +15,7 @@
 	body{
 		font: 62.5%/2.2em "Lucida Grande", Tahoma, Verdana, Arial, Helvetica, sans-serif;
 		/*color: #4b4942;*/color: #bc0067;
-		/*background: #f7f7f7;*/ background: #fff;
+		/*background: #f7f7f7; background: #fff;*/ background: #021234;
 	}
 	a{text-decoration: none;color: #5599a7;}
 	a:hover{color: #bb800f;}
