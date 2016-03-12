@@ -198,7 +198,7 @@
 /* =FOOTER */
 	#footer{
 		height: 37px;
-		background: #4a4841 url(../images/footer_bg.jpg) 0 0 repeat-x;
+		/*background: #4a4841*/ background: #aa1245; url(../images/footer_bg.jpg) 0 0 repeat-x;
 		font-size: 1.2em;
 	}
 	#footer a{color: #A39D97;}
