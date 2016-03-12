@@ -53,6 +53,11 @@
 			<div class="article_wrapper">
 				<h2></h2>
 				<p></p>
+				<?php
+				$myfile = fopen("intro-short.txt", "r") or die("Unable to open file!");
+				echo fread($myfile,filesize("intro-short.txt"));
+				fclose($myfile);
+				?>
 			</div>
 			<div class="article_wrapper">
 				<h2></h2>
