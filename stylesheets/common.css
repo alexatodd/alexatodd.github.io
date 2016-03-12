@@ -202,13 +202,13 @@
 		font-size: 1.2em;
 	}
 	#footer a{color: #A39D97;}
-	#designby{
+	/*#designby{
 		background: url(../images/logo.gif) 0 0 no-repeat;
 		float: left;
 		height: 23px;
 		padding:2px 0 0 30px;
 		margin-top: 5px;
-	}
+	}*/
 	#footer_navigation{
 		float: right;
 		padding-top:7px;
