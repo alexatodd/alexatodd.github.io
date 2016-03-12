@@ -14,7 +14,7 @@
 */
 	body{
 		font: 62.5%/2.2em "Lucida Grande", Tahoma, Verdana, Arial, Helvetica, sans-serif;
-		/*color: #4b4942;*/color: #bc0067;
+		/*color: #4b4942;color: #bc0067;*/ color: #e4cfb0;
 		/*background: #f7f7f7; background: #fff;*/ background: #021234;
 	}
 	a{text-decoration: none;color: #5599a7;}
@@ -34,7 +34,7 @@
 
 /* =LAYOUT - the main layout styles */
 	.container{
-		width:1500px;
+		width:1200px;
 		margin: 0 auto;
 		position: relative;
 		overflow:hidden;
