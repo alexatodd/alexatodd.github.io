@@ -9,12 +9,12 @@ body{font-family:Arial, Helvetica, sand-serif;}
 }
 #logo{
   background:url(photoshop/slices/images/website_layout_09_logo.png) no-repeat;
-  height:84px;
-  width:235px;
+  height:83px;
+  width:351px;
 }
 #logo h1{
   text-indent: -9999px;
 }
 #header{
-  padding-top: 40px;
+  padding-top: 60px;
 }
