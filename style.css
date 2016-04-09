@@ -20,6 +20,8 @@ body{
 }
 #header{
   padding-top: 80px;
+  width: 100%;
+  text-align: center;
 }
 #tagline{
   float: left;
@@ -137,7 +139,7 @@ a.button{
   margin-top: 40px;
   color: #fdf7dd;
 }
-#headimg{
+img.header{
   display: inline-block;
   margin: 0 auto;
 }
