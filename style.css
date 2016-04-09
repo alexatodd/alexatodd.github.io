@@ -16,5 +16,11 @@ body{font-family:Arial, Helvetica, sand-serif;}
   text-indent: -9999px;
 }
 #header{
-  padding-top: 60px;
+  padding-top: 80px;
 }
+#tagline{
+  float: left;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+#tagline h3{font-size: 30px;color:#e4dfdf;}
