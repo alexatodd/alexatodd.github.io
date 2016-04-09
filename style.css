@@ -75,3 +75,13 @@ ul#menu li{
   font-weight: bold;
   text-decoration: none;
 }
+#news{
+  padding-top: 10px;
+}
+#news h3{
+  padding-top: 10px;
+}
+#news p{
+  padding-top: 10px;
+  padding-bottom: 14px;
+}
