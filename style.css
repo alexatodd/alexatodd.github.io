@@ -2,7 +2,7 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }
 body{font-family:Arial, Helvetica, sand-serif;}
 .container{
   width:800px;
-  margin 0 auto;
+  margin: 0 auto;
 }
 #main{
   background: url(photoshop/slices/images/website_layout_01_header.jpg) repeat-x;
@@ -29,6 +29,7 @@ body{font-family:Arial, Helvetica, sand-serif;}
 }
 ul#menu {
   list-style: none;
+  padding-top: 55px;
 }
 ul#menu li a {
   font-size: 30px;
@@ -37,4 +38,6 @@ ul#menu li a {
 }
 ul#menu li{
   float: left;
+  padding-left: 30px;
+  padding-right: 75px;
 }
