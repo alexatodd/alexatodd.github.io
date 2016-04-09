@@ -14,14 +14,12 @@ body{
   background:url(photoshop/slices/images/website_layout_09_logo.png) no-repeat;
   height:83px;
   width:351px;
+  float: left;
 }
 #logo h1{
   text-indent: -9999px;
 }
 #header{
-  padding-top: 80px;
-}
-#headimage{
   padding-top: 80px;
 }
 #tagline{
