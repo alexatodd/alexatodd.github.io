@@ -97,7 +97,8 @@ ul#menu li{
   margin-left: 55px;
   margin-top: 35px;
   background: #cccccc;
-  border: 1px solid #000000;
+  border: 0.5px solid #000000;
+  box-shadow: 1px 1px 5px #000000;
   padding: 15px;
 }
 #sidebar h3{
