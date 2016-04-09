@@ -137,3 +137,8 @@ a.button{
   margin-top: 40px;
   color: #fdf7dd;
 }
+img.header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
