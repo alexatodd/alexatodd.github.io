@@ -44,6 +44,10 @@ ul#menu li{
   padding-left: 30px;
   padding-right: 75px;
 }
+#content{
+  width: 510px;
+  float: left;
+}
 #content h2 {
   font-size: 30px;
   color: #f41e06;
