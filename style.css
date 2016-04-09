@@ -42,8 +42,8 @@ ul#menu li a {
 }
 ul#menu li{
   float: left;
-  padding-left: 30px;
-  padding-right: 75px;
+  width: 95px;
+  padding-right: 105px;
 }
 #content{
   width: 510px;
