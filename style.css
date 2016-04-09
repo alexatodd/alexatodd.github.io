@@ -11,7 +11,6 @@ body{font-family:Arial, Helvetica, sand-serif;}
   background:url(photoshop/slices/images/website_layout_09_logo.png) no-repeat;
   height:83px;
   width:351px;
-  text-indent: 40px;
 }
 #logo h1{
   text-indent: -9999px;
@@ -24,4 +23,18 @@ body{font-family:Arial, Helvetica, sand-serif;}
   padding-top: 20px;
   padding-left: 20px;
 }
-#tagline h3{font-size: 30px;color:#e4dfdf;}
+#tagline h3{
+  font-size: 30px;
+  color:#e4dfdf;
+}
+ul#menu {
+  list-style: none;
+}
+ul#menu li a {
+  font-size: 30px;
+  color: #676666;
+  text-decoration: none;
+}
+ul#menu li{
+  float: left;
+}
