@@ -7,3 +7,14 @@ body{font-family:Arial, Helvetica, sand-serif;}
 #main{
   background: url(photoshop/slices/images/website_layout_02_header.jpg) repeat-x;
 }
+#logo{
+  background:url(photoshop/slices/images/website_layout_09_logo.png) no-repeat;
+  height:84px;
+  width:235px;
+}
+#logo h1{
+  text-indent: -9999px;
+}
+#header{
+  padding-top: 40px;
+}
