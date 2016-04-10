@@ -22,13 +22,13 @@ body{
   padding-top: 80px;
 }
 #tagline{
-  float: left;
-  padding-top: 20px;
-  padding-left: 20px;
+  background: url(photoshop/slices/images/website_layout_07.png) no-repeat;
+  float: right;
+  height:84px;
+  width: 353px;
 }
-#tagline h3{
-  font-size: 30px;
-  color:#e4dfdf;
+#tagline h1{
+  text-indent: 9999px;
 }
 ul#menu {
   list-style: none;
