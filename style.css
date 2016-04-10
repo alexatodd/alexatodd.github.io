@@ -10,9 +10,10 @@ body{
   margin: 0 auto;
   background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
   background-position: top;
+  border-radius: 10px;
 }
 #main{
-  background-color: #000000;
+  background-color: #eae5d3;
 }
 #logo{
   background:url(photoshop/slices/images/website_layout3_03_logo.png) no-repeat;
