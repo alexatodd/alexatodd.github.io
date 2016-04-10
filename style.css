@@ -11,10 +11,10 @@ body{
   background: url(photoshop/slices/images/website_layout_01_header.jpg) repeat-x;
 }
 #logo{
-  background:url(photoshop/slices/images/website_layout_09_logo.png) no-repeat;
+  background:url(photoshop/slices/images/website_layout_03_logoFull.png) no-repeat;
   height:83px;
   width:351px;
-  background-position: left;
+  background-position: center;
 }
 #logo h1{
   text-indent: -9999px;
@@ -22,21 +22,21 @@ body{
 #header{
   padding-top: 80px;
 }
-#gem{
+/*#gem{
   background: url(photoshop/slices/images/website_layout_04_gem.png) no-repeat;
   background-position: center;
   height: 179px;
   width: 179px;
-}
+}*/
 #gem h1{
   text-indent: -9999px;
 }
-#tagline{
+/*#tagline{
   background: url(photoshop/slices/images/website_layout_07.png) no-repeat;
   background-position: right;
   height:83px;
   width: 351px;
-}
+}*/
 #tagline h1{
   text-indent: -9999px;
 }
