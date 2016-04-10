@@ -56,7 +56,8 @@ ul#menu li a:hover{
 ul#menu li{
   float: left;
   width: 95px;
-  padding-right: 75px;
+  padding-right: 65px;
+  align-items: center;
 }
 #content{
   width: 600px;
