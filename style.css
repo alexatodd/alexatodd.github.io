@@ -11,9 +11,10 @@ body{
   background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
   background-position: top;
   border-radius: 10px;
+  padding: 50px;
 }
 #main{
-  background-color: #eae5d3;
+  background-color: #a7a7a7;
 }
 #logo{
   background:url(photoshop/slices/images/website_layout3_03_logo.png) no-repeat;
