@@ -28,7 +28,7 @@ body{
 #tagline{
   float: left;
   width: 400px;
-  /*padding-top: -50px;*/
+  padding-top: 50px;
   padding-left: 575px;
 }
 #tagline h3{
