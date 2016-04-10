@@ -1,4 +1,6 @@
-body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }
+@import url("reset-min.css"); /* ------- Reset all CSS Styles */
+
+/*body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }*/
 body{
   font-family:Arial, Helvetica, sand-serif;
   background-color: #a7a7a7;
@@ -56,8 +58,8 @@ ul#menu li a:hover{
 ul#menu li{
   float: left;
   width: 95px;
-  padding-right: 65px;
-  align-items: center;
+  padding-left: 30px;
+  padding-right: 75px;
 }
 #content{
   width: 600px;
