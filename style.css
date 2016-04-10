@@ -29,8 +29,8 @@ body{
 }
 #tagline{
   float: left;
-  padding-top: 45px;
-  padding-left: 500px;
+  padding-top: 0px;
+  padding-left: 600px;
 }
 #tagline h3{
   font-size: 20px;
