@@ -50,6 +50,9 @@ ul#menu li a {
   color: #fff9ff;
   text-decoration: none;
 }
+ul#menu li a:hover{
+  color: #f41e06;
+}
 ul#menu li{
   float: left;
   width: 95px;
@@ -150,7 +153,4 @@ a.button{
 img.header{
   display: inline-block;
   margin: 0 auto;
-}
-a.menu:hover{
-  color: #f41e06;
 }
