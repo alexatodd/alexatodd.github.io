@@ -8,13 +8,12 @@ body{
   border-color: #1914e9;*/
   width:1000px;
   margin: 0 auto;
-  background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
   background-position: top;
-  border-radius: 10px;
-  padding: 50px;
+  border-radius: 5px;
+  /*padding: 50px;*/
 }
 #main{
-  background-color: #a7a7a7;
+  background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
 }
 #logo{
   background:url(photoshop/slices/images/website_layout3_03_logo.png) no-repeat;
