@@ -24,7 +24,7 @@ body{
 }
 #gem{
   background: url(photoshop/slices/images/website_layout_04_gem.png) no-repeat;
-  /*background-position: center;*/
+  background-position: center;
   height: 179px;
   width: 179px;
 }
