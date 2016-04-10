@@ -14,7 +14,7 @@ body{
   background:url(photoshop/slices/images/website_layout_09_logo.png) no-repeat;
   height:83px;
   width:351px;
-  float: left;
+  background-position: left;
 }
 #logo h1{
   text-indent: -9999px;
@@ -25,15 +25,15 @@ body{
 #gem{
   background: url(photoshop/slices/images/website_layout_04_gem.png) no-repeat;
   background-position: center;
-  height:179;
-  width: 179;
+  height:179px;
+  width: 179px;
 }
 #gem h1{
   text-indent: -9999px;
 }
 #tagline{
   background: url(photoshop/slices/images/website_layout_07.png) no-repeat;
-  float: right;
+  background-position: right;
   height:84px;
   width: 353px;
 }
