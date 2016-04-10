@@ -53,7 +53,7 @@ ul#menu li a {
 ul#menu li{
   float: left;
   width: 95px;
-  padding-right: 105px;
+  padding-right: 50px;
 }
 #content{
   width: 600px;
