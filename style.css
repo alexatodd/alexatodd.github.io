@@ -151,3 +151,6 @@ img.header{
   display: inline-block;
   margin: 0 auto;
 }
+a.menu:hover{
+  color: #f41e06;
+}
