@@ -58,7 +58,6 @@ ul#menu li a:hover{
 ul#menu li{
   float: left;
   width: 95px;
-  padding-left: 30px;
   padding-right: 75px;
 }
 #content{
