@@ -24,7 +24,9 @@ body{
 }
 #gem{
   background: url(photoshop/slices/images/website_layout_04_gem.png) no-repeat;
-  background-position: center;
+  /*background-position: center;*/
+  height: 179px;
+  width: 179px;
 }
 #gem h1{
   text-indent: -9999px;
@@ -32,8 +34,8 @@ body{
 #tagline{
   background: url(photoshop/slices/images/website_layout_07.png) no-repeat;
   float: right;
-  height:84px;
-  width: 353px;
+  height:83px;
+  width: 351px;
 }
 #tagline h1{
   text-indent: -9999px;
