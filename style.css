@@ -64,7 +64,7 @@ ul#menu li{
 }
 #content h2 {
   font-size: 24px;
-  color: #f41e06;
+  color: #5a1eb4;
   padding-top: 25px;
 }
 #content h3 {
@@ -134,7 +134,7 @@ ul#subscribe li a{
   font-size: 18px;
 }
 a.button{
-  color: #150b6c;
+  color: #5a1eb4;
   text-decoration: none;
   background: url(photoshop/slices/images/website_layout2_09_button.jpg) repeat-x;
   margin-left: 14px;
