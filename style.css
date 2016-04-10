@@ -10,10 +10,10 @@ body{
   margin: 0 auto;
 }
 #main{
-  background: url(photoshop/slices/images/website_layout2_01_header.jpg) repeat-x;
+  background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
 }
 #logo{
-  background:url(photoshop/slices/images/website_layout_03_logoFull.png) no-repeat;
+  background:url(photoshop/slices/images/website_layout3_03_logo.png) no-repeat;
   height:170px;
   width:900px;
   background-position: center;
@@ -146,7 +146,7 @@ a.button{
   padding: 13px 23px;
 }
 #footer {
-  background: url(photoshop/slices/images/website_layout2_12_footer.jpg) repeat-x;
+  background: url(photoshop/slices/images/website_layout3_11.jpg) repeat-x;
   padding-top: 20px;
   padding-bottom: 60px;
   margin-top: 40px;
