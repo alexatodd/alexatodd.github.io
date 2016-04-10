@@ -33,7 +33,7 @@ body{
 }
 #tagline{
   background: url(photoshop/slices/images/website_layout_07.png) no-repeat;
-  background-position: right;
+  float: right;
   height:84px;
   width: 353px;
 }
