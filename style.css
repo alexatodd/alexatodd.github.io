@@ -12,7 +12,6 @@ body{
   /*padding-top: 20px;*/
 }
 #main{
-  background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
 }
 #logo{
   background:url(photoshop/slices/images/website_layout3_03_logo.png) no-repeat;
@@ -24,6 +23,7 @@ body{
   text-indent: -9999px;
 }
 #header{
+  background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
   padding-top: 16px;
 }
 #tagline{
