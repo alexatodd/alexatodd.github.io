@@ -153,11 +153,11 @@ a.button{
   margin-top: 40px;
   color: #fdf7dd;
   background-color: #818181;
-  width: 1000px;
 }
-/*footer.container{
+#footer p{
   background-color: #818181;
-}*/
+  padding-left: 100px;
+}
 img.header{
   display: inline-block;
   margin: 0 auto;
