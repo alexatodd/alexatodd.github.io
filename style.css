@@ -11,6 +11,7 @@ body{
   /*padding: 50px;*/
   /*padding-top: 20px;*/
   background-color: #a7a7a7;
+  border-radius: 5px;
 }
 #main{
 }
@@ -151,6 +152,9 @@ a.button{
   padding-bottom: 60px;
   margin-top: 40px;
   color: #fdf7dd;
+}
+footer.container{
+  background-color: none;
 }
 img.header{
   display: inline-block;
