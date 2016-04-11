@@ -4,12 +4,12 @@ body{
   background-color: #a7a7a7;
 }
 .container{
-  border: 1px solid;
-  border-color: #1914e9;
+  /*border: 1px solid;
+  border-color: #1914e9;*/
   width:1000px;
   margin: 0 auto;
   /*padding: 50px;*/
-  padding-top: 20px;
+  /*padding-top: 20px;*/
 }
 #main{
   background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
