@@ -162,3 +162,6 @@ img.header{
   display: inline-block;
   margin: 0 auto;
 }
+span.page{
+  background-color: #a7a7a7;
+}
