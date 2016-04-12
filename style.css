@@ -54,10 +54,11 @@ ul#menu li a {
 ul#menu li a:hover{
   color: #1914e9;
 }
-ul #menu li a.current{
+.current{
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat;
   width: 173px;
   height: 63px;
+  float: left;
   padding-top: none;
   padding-bottom: none;
 }
