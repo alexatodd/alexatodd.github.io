@@ -58,6 +58,8 @@ ul#menu li a:hover{
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat;
   width: 173px;
   height: 63px;
+  padding-top: none;
+  padding-bottom: none;
 }
 ul#menu li{
   float: left;
