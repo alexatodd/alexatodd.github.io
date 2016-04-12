@@ -61,6 +61,7 @@ ul#menu li a:hover{
   float: left;
   padding-top: none;
   padding-bottom: none;
+  padding-left: none;
 }
 ul#menu li{
   float: left;
