@@ -54,6 +54,9 @@ ul#menu li a {
 ul#menu li a:hover{
   color: #1914e9;
 }
+.current{
+  background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat;
+}
 ul#menu li{
   float: left;
   width: 95px;
