@@ -54,7 +54,7 @@ ul#menu li a{
 ul#menu li a:hover{
   color: #1914e9;
 }
-#menu li a.index {
+#menu .index {
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
   /*background-color: #a7a7a7;*/
   width: 173px;
