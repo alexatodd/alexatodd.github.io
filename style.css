@@ -59,8 +59,8 @@ ul#menu li a:hover{
   /*background-color: #a7a7a7;*/
   width: 173px;
   height: 63px;
-  float: left;
-  padding: 0px;
+  /*float: left;*/
+  padding: -50px;
 }
 ul#menu li{
   float: left;
