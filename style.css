@@ -62,10 +62,10 @@ ul#menu li a:hover{
   float: left;
   padding: -50px;*/
 }
-.topmenu ul li.active a, .topmenu ul li a:hover {
+.topmenu ul li.active a{
   text-decoration:none;
   color:#fff;
-  background:url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat center top;
+  background:url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
 }
 ul#menu li{
   float: left;
