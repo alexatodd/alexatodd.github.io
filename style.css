@@ -54,11 +54,12 @@ ul#menu li a {
 ul#menu li a:hover{
   color: #1914e9;
 }
-#index #main #header #menu .index{
+#index #header #menu.index{
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
   width: 173px;
   height: 63px;
   float: left;
+  padding: 0px;
 }
 ul#menu li{
   float: left;
