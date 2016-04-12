@@ -46,16 +46,17 @@ ul#menu {
   padding-bottom: 50px;
   padding-left: 20px;
 }
-ul#menu li a {
+ul#menu li{
   font-size: 24px;
   color: #fff9ff;
   text-decoration: none;
 }
-ul#menu li a:hover{
+ul#menu li:hover{
   color: #1914e9;
 }
 #index li.index {
-  background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
+  /*background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;*/
+  background-color: #a7a7a7;
   width: 173px;
   height: 63px;
   float: left;
