@@ -51,12 +51,12 @@ ul#menu li{
   color: #fff9ff;
   text-decoration: none;
 }
-ul#menu li:hover{
+ul#menu li a:hover{
   color: #1914e9;
 }
-#index li.index {
-  /*background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;*/
-  background-color: #a7a7a7;
+#menu li a.index {
+  background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
+  /*background-color: #a7a7a7;*/
   width: 173px;
   height: 63px;
   float: left;
