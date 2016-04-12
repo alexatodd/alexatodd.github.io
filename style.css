@@ -46,7 +46,7 @@ ul#menu {
   padding-bottom: 50px;
   padding-left: 20px;
 }
-ul#menu li{
+ul#menu li a{
   font-size: 24px;
   color: #fff9ff;
   text-decoration: none;
