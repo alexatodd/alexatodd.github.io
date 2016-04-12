@@ -40,18 +40,18 @@ body{
   /*color: #5a1eb4;*/
   color: #495b30;
 }
-ul#menu {
+.topmenu ul {
   list-style: none;
   padding-top:20px;
   padding-bottom: 50px;
   padding-left: 20px;
 }
-ul#menu li a{
+.topmenu ul li a{
   font-size: 24px;
   color: #fff9ff;
   text-decoration: none;
 }
-ul#menu li a:hover{
+.topmenu ul li a:hover{
   color: #1914e9;
 }
 /*#index #menu .index {
@@ -62,12 +62,12 @@ ul#menu li a:hover{
   float: left;
   padding: -50px;*/
 }
-.topmenu #menu li.active a{
+.topmenu ul li.active a{
   text-decoration:none;
   color:#fff;
   background:url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
 }
-ul#menu li{
+.topmenu ul li{
   float: left;
   width: 95px;
   padding-right: 75px;
