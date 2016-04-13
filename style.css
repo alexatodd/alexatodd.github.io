@@ -6,6 +6,7 @@ body{
 .container{
   border: 1px solid;
   border-color: #000000;
+  box-shadow: 1px 1px 5px #595959;
   width:1000px;
   margin: 0 auto;
   /*padding: 50px;*/
