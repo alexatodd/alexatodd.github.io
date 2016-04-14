@@ -55,6 +55,10 @@ body{
 }
 .topmenu ul li a:hover{
   color: #1914e9;
+  background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
+  width: 173px;
+  height: 63px;
+  float: left;
 }
 /*#index #menu .index {
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
@@ -64,14 +68,10 @@ body{
   float: left;
   padding: -50px;*/
 }
-.topmenu ul li.active{
+/*.topmenu ul li.active{
   text-decoration:none;
   /*color:#fff;*/
-  background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
-  width: 173px;
-  height: 63px;
-  float: left;
-}
+}*/
 .topmenu ul li{
   float: left;
   width: 95px;
