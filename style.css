@@ -58,7 +58,7 @@ body{
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
   width: 173px;
   height: 63px;
-  float: left;
+  /*float: left;*/
 }
 /*#index #menu .index {
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
