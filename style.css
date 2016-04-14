@@ -55,23 +55,15 @@ body{
 }
 .topmenu ul li a:hover{
   color: #1914e9;
+  text-decoration:none;
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat;
   width: 173px;
   height: 63px;
   float: left;
 }
-/*#index #menu .index {
-  background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
-  /*background-color: #a7a7a7;*/
-  width: 173px;
-  height: 63px;
-  float: left;
-  padding: -50px;*/
-}
 /*.topmenu ul li.active{
-  text-decoration:none;
   /*color:#fff;*/
-}*/
+/*}*/
 .topmenu ul li{
   float: left;
   width: 95px;
