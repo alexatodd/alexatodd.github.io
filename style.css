@@ -64,7 +64,7 @@ body{
   float: left;
   padding: -50px;*/
 }
-ul li.active a{
+.topmenu ul li.active{
   text-decoration:none;
   /*color:#fff;*/
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat left top;
