@@ -22,7 +22,7 @@ body{
 #main{
 }
 #logo{
-  background:url(photoshop/slices/images/website_layout3_04.png) no-repeat;
+  background:url(photoshop/slices/images/website_layout3_04_logo.jpg) no-repeat;
   height:208px;
   width:547px;
   float: left;
@@ -32,7 +32,7 @@ body{
   text-indent: -9999px;
 }
 #header{
-  background: url(photoshop/slices/images/website_layout3_02.jpg) repeat-x;
+  background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
   border-radius: 5px;
   padding-top: 16px;
 }
@@ -156,13 +156,13 @@ ul#subscribe li a{
 a.button{
   color: #5a1eb4;
   text-decoration: none;
-  background: url(photoshop/slices/images/website_layout2_09_button.jpg) repeat-x;
+  background: url(photoshop/slices/images/website_layout3_12_button.jpg) repeat-x;
   margin-left: 10px;
   padding: 13px 23px;
   border-radius: 5px;
 }
 #footer {
-  background: url(photoshop/slices/images/website_layout3_11.jpg) repeat-x;
+  background: url(photoshop/slices/images/website_layout3_15_footer.jpg) repeat-x;
   padding-top: 40px;
   padding-bottom: 60px;
   margin-top: 40px;
