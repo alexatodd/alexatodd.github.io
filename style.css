@@ -2,11 +2,12 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }
 body{
   font-family:Arial, Helvetica, sand-serif;
   /*background-color: #495b30;*/
-  background-color: #000000;
+  background-color: #595959;
 }
 .container{
   border: 1px solid;
-  border-color: #464444;
+  border-color: #000000;
+  /*border-color: #464444;*/
   /*box-shadow: 1px 1px 5px #595959;*/
   width:1000px;
   margin: 0 auto;
