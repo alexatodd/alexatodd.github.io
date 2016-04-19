@@ -22,7 +22,7 @@ body{
 #main{
 }
 #logo{
-  background:url(photoshop/slices/images/website_layout3_03.jpg) no-repeat;
+  background:url(photoshop/slices/images/website_layout3_04.png) no-repeat;
   height:208px;
   width:547px;
   float: left;
@@ -32,7 +32,7 @@ body{
   text-indent: -9999px;
 }
 #header{
-  background: url(photoshop/slices/images/website_layout3_02_header.jpg) repeat-x;
+  background: url(photoshop/slices/images/website_layout3_02.jpg) repeat-x;
   border-radius: 5px;
   padding-top: 16px;
 }
