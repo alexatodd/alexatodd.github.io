@@ -6,10 +6,9 @@ body{
 }
 #toplogo{
   background:url(photoshop/slices/images/website_layout3_04_compass_04.png) no-repeat;
-  height:35px;
-  width:109px;
+  height:17px;
+  width:54px;
   float: left;
-  border-radius: 5px;
 }
 #topmenu{
   position: fixed;
@@ -32,7 +31,7 @@ body{
 #topmenu ul li{
   float: left;
   width: 40px;
-  padding-right: 50px;
+  padding-right: 100px;
 }
 #topmenu ul li a{
   font-size: 18px;
