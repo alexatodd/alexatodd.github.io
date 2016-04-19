@@ -4,6 +4,16 @@ body{
   background-color: #495b30;
   /*background-color: #150b6c;*/
 }
+#topmenu{
+  width: auto;
+  height: 100px;
+  background-color: #150b6c;
+}
+#topmenu ul li a{
+  font-size: 14px;
+  color: #fff9ff;
+  text-decoration: none;
+}
 .container{
   border: 1px solid;
   border-color: #000000;
@@ -49,18 +59,18 @@ body{
   /*color: #5a1eb4;*/
   color: #495b30;
 }
-.topmenu ul {
+.menubar ul {
   list-style: none;
   padding-top:20px;
   padding-bottom: 50px;
   padding-left: 20px;
 }
-.topmenu ul li a{
+.menubar ul li a{
   font-size: 24px;
   color: #fff9ff;
   text-decoration: none;
 }
-.topmenu ul li a:hover{
+.menubar ul li a:hover{
   color: #1914e9;
   text-decoration:none;
   background: url(photoshop/slices/images/website_layout3_06_menu.jpg) no-repeat;
@@ -71,7 +81,7 @@ body{
 /*.topmenu ul li.active{
   /*color:#fff;*/
 /*}*/
-.topmenu ul li{
+.menubar ul li{
   float: left;
   width: 95px;
   padding-right: 75px;
