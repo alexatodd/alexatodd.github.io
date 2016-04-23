@@ -1,8 +1,9 @@
 body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }
 body{
   font-family:Arial, Helvetica, sand-serif;
-  background-color: #495b30;
+  /*background-color: #495b30;*/
   /*background-color: #150b6c;*/
+  background-color: #000000;
 }
 div#topmenu{
   overflow: hidden;
@@ -34,7 +35,7 @@ li#compass{
 }
 #topmenu ul li{
   float: left;
-  /*display: inline;*/
+  display: inline;
   list-style-type: none;
   width: 40px;
   padding-right: 100px;
