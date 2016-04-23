@@ -196,7 +196,7 @@ a.button{
 #footer {
   background: url(photoshop/slices/images/website_layout3_15_footer.jpg) repeat-x;
   padding-top: 40px;
-  /*padding-bottom: 60px;*/
+  padding-bottom: 20px;
   margin-top: 40px;
   color: #fdf7dd;
   /*background-color: #818181;*/
