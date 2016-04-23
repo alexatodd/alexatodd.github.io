@@ -21,8 +21,8 @@ li#compass{
   float: right;
   width: 50%;
   height: 50%;
-  padding-top: 0px;
-  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 10px;
   padding-left: 800px;
 }
 #topmenu ul {
