@@ -20,11 +20,11 @@ body{
 }
 li#compass{
   float: right;
-  width: 60px;
-  height: 70px;
-  padding-top: 50px;
+  width: 30px;
+  height: 45px;
+  padding-top: -10px;
   /*padding-bottom: 10px;*/
-  padding-left: 100px;
+  padding-left: 150px;
 }
 #topmenu ul {
   list-style: none;
