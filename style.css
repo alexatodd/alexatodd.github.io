@@ -122,11 +122,6 @@ li#compass{
   padding-left: 50px;
   padding-bottom: 50px;
 }
-#sidebar{
-  float: left;
-  height: 400px;
-  width: 200px;
-}
 #content h2 {
   font-size: 24px;
   color: #fc1a03;
@@ -170,6 +165,11 @@ li#compass{
 }
 #sidebar{
   float: left;
+  height: 400px;
+  width: 200px;
+}
+#sidebar{
+  float: left;
   margin-left: 55px;
   margin-top: 35px;
   background: #cccccc;
@@ -205,6 +205,7 @@ a.button{
   margin-left: 10px;
   padding: 20px 20px;
   border-radius: 5px;
+  width: 160;
 }
 #footer {
   background: url(photoshop/slices/images/website_layout3_15_footer.jpg) repeat-x;
