@@ -21,9 +21,10 @@ li#compass{
   float: right;
   width: 50%;
   height: 50%;
-  padding-top: 5px;
-  padding-bottom: 10px;
-  padding-left: 800px;
+  /*padding-top: 5px;*/
+  /*padding-bottom: 10px;*/
+  padding-left: 200px;
+  top: 5px;
 }
 #topmenu ul {
   list-style: none;
