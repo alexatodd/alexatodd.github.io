@@ -63,13 +63,13 @@ li#compass{
   -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,.5);
   -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,.5);
   box-shadow: 0px 0px 5px 1px rgba(0,0,0,.5);
-  padding-top: 20px;
+  padding-top: 50px;
 }
 #main{
 }
 #logo{
   background:url(logo/images/wholeBrain.jpg) no-repeat;
-  height:209px;
+  height:210px;
   width:540px;
   float: left;
   border-radius: 5px;
@@ -80,7 +80,7 @@ li#compass{
 #header{
   background: url(photoshop/slices/images/website_layout3header_2_02.jpg) repeat-x;
   border-radius: 5px;
-  padding-top: 30px;
+  padding-top: 16px;
 }
 #tagline{
   float: left;
