@@ -20,9 +20,9 @@ div#compass{
   float: right;
   width: 50%;
   height: 50%;
-  padding-top: 2px;
-  padding-bottom: 2px;
-  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-left: 800px;
 }
 #topmenu ul {
   list-style: none;
