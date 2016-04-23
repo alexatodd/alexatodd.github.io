@@ -111,9 +111,6 @@ li#compass{
   height: 63px;
   float: left;
 }
-/*.topmenu ul li.active{
-  /*color:#fff;*/
-/*}*/
 .menubar ul li{
   float: left;
   width: 95px;
@@ -122,10 +119,11 @@ li#compass{
 #content{
   width: 600px;
   float: left;
-  padding-left: 20px;
+  padding-left: 50px;
 }
 #sidebar{
   float: left;
+  height: 200px;
 }
 #content h2 {
   font-size: 24px;
