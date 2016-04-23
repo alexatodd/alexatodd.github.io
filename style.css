@@ -6,14 +6,14 @@ body{
   background-color: #242424;
 }
 #topmenu{
-  overflow: hidden;
+  /*overflow: hidden;*/
   position: fixed;
   margin: 0px;
   top: 0px;
   left: 0px;
   display: block;
   width: 100%;
-  height: 70px;
+  height: 80px;
   background-color: #150b6c;
   -moz-box-shadow: 0px 1px 2px rgba(0,0,0,.5);
   box-shadow: 0px 1px 2px rgba(0,0,0,.5);
@@ -22,11 +22,9 @@ li#compass{
   float: right;
   width: 20%;
   height: 20%;
-  image-orientation: top;
   /*padding-top: 5px;*/
   /*padding-bottom: 10px;*/
   padding-left: 100px;
-  margin-top: 5px;
 }
 #topmenu ul {
   list-style: none;
@@ -46,6 +44,10 @@ li#compass{
   color: #a7a7a7;
   font-weight: bold;
   text-decoration: none;
+}
+#topmenu ul li a:hover{
+  color: #1914e9;
+  text-decoration:none;
 }
 .container{
   border: 1px solid;
@@ -85,8 +87,8 @@ li#compass{
 #tagline{
   float: left;
   width: 400px;
-  padding-top: 70px;
-  padding-left: 600px;
+  padding-top: 65px;
+  padding-left: 500px;
 }
 #tagline h3{
   font-size: 20px;
