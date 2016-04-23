@@ -22,6 +22,7 @@ li#compass{
   float: right;
   width: 40%;
   height: 40%;
+  image-orientation: top;
   /*padding-top: 5px;*/
   /*padding-bottom: 10px;*/
   padding-left: 100px;
@@ -67,7 +68,7 @@ li#compass{
 #main{
 }
 #logo{
-  background:url(logo/images/compass.jpg) no-repeat;
+  background:url(logo/images/wholeBrain.jpg) no-repeat;
   height:209px;
   width:540px;
   float: left;
@@ -84,8 +85,8 @@ li#compass{
 #tagline{
   float: left;
   width: 400px;
-  padding-top: 60px;
-  padding-left: 575px;
+  padding-top: 50px;
+  padding-left: 600px;
 }
 #tagline h3{
   font-size: 20px;
