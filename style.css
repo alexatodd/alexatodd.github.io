@@ -120,6 +120,7 @@ li#compass{
   width: 600px;
   float: left;
   padding-left: 50px;
+  padding-bottom: 50px;
 }
 #sidebar{
   float: left;
