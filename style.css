@@ -17,11 +17,11 @@ div#topmenu{
   -moz-box-shadow: 0px 1px 2px rgba(0,0,0,.5);
   box-shadow: 0px 1px 2px rgba(0,0,0,.5);
 }
-div#compass{
+li#compass{
   float: right;
   width: 50%;
   height: 50%;
-  padding-top: 10px;
+  padding-top: 0px;
   padding-bottom: 15px;
   padding-left: 800px;
 }
