@@ -4,12 +4,6 @@ body{
   background-color: #495b30;
   /*background-color: #150b6c;*/
 }
-#toplogo{
-  background:url(photoshop/slices/images/website_layout3_04_compass_04.png) no-repeat;
-  height:17px;
-  width:54px;
-  float: left;
-}
 #topmenu{
   position: fixed;
   margin: 0px;
