@@ -64,6 +64,7 @@ body{
   width:547px;
   float: left;
   border-radius: 5px;
+  padding-top: 40px;
 }
 #logo h1{
   text-indent: -9999px;
