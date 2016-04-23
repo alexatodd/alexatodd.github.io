@@ -3,9 +3,9 @@ body{
   font-family:Arial, Helvetica, sand-serif;
   /*background-color: #495b30;*/
   /*background-color: #150b6c;*/
-  background-color: #000000;
+  background-color: #242424;
 }
-div#topmenu{
+#topmenu{
   overflow: hidden;
   position: fixed;
   margin: 0px;
@@ -20,8 +20,8 @@ div#topmenu{
 }
 li#compass{
   float: right;
-  width: 50%;
-  height: 50%;
+  width: 40%;
+  height: 40%;
   /*padding-top: 5px;*/
   /*padding-bottom: 10px;*/
   padding-left: 100px;
@@ -31,7 +31,7 @@ li#compass{
   list-style: none;
   padding-top:25px;
   padding-bottom: 50px;
-  padding-left: 150px;
+  padding-left: 200px;
 }
 #topmenu ul li{
   float: left;
