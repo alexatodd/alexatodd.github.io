@@ -49,6 +49,7 @@ body{
   -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,.5);
   -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,.5);
   box-shadow: 0px 0px 5px 1px rgba(0,0,0,.5);
+  padding-top: 40px;
 }
 #main{
 }
@@ -58,7 +59,6 @@ body{
   width:547px;
   float: left;
   border-radius: 5px;
-  padding-top: 40px;
 }
 #logo h1{
   text-indent: -9999px;
