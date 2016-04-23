@@ -20,8 +20,8 @@ body{
 }
 li#compass{
   float: right;
-  width: 20%;
-  height: 20%;
+  width: 60px;
+  height: 70px;
   /*padding-top: 5px;*/
   /*padding-bottom: 10px;*/
   padding-left: 100px;
@@ -88,7 +88,7 @@ li#compass{
   float: left;
   width: 400px;
   padding-top: 65px;
-  padding-left: 500px;
+  padding-left: 600px;
 }
 #tagline h3{
   font-size: 20px;
