@@ -7,6 +7,7 @@ body{
   background: url(images/wis398-01.ngsversion.1461337441394.adapt.768.1.jpg) no-repeat;
   background-size: cover;
 }
+/*TOP MENU*/
 #topmenu{
   /*overflow: hidden;*/
   position: fixed;
@@ -20,11 +21,6 @@ body{
   -moz-box-shadow: 0px 1px 2px rgba(0,0,0,.5);
   box-shadow: 0px 1px 2px rgba(0,0,0,.5);
 }
-/*li#compass{
-  float: right;
-  padding-top: -60px;
-  padding-left: 100px;
-}*/
 #topmenu ul {
   list-style: none;
   padding-top:25px;
@@ -36,18 +32,20 @@ body{
   display: inline;
   list-style-type: none;
   width: 40px;
-  padding-right: 100px;
+  padding-right: 120px;
 }
 #topmenu ul li a{
   font-size: 18px;
   color: #a7a7a7;
   font-weight: bold;
   text-decoration: none;
+  padding-top: 20px:
 }
 #topmenu ul li a:hover{
   color: #317b6c; /*#06a2ef;*/
   text-decoration:none;
 }
+/*MAIN CONTAINER*/
 .container{
   border: 1px solid;
   border-color: #495b30;
@@ -62,7 +60,11 @@ body{
   box-shadow: 0px 0px 20px 1px rgba(245,192,98,.4);
   padding-top: 50px;
 }
-#main{
+/*HEADER*/
+#header{
+  background: url(photoshop/slices/images/website_layout3header_2_02.jpg) repeat-x;
+  border-radius: 5px;
+  padding-top: 16px;
 }
 #logo{
   background:url(logo/images/wholeBrain.png) no-repeat;
@@ -72,11 +74,6 @@ body{
 }
 #logo h1{
   text-indent: -9999px;
-}
-#header{
-  background: url(photoshop/slices/images/website_layout3header_2_02.jpg) repeat-x;
-  border-radius: 5px;
-  padding-top: 16px;
 }
 #tagline{
   float: left;
@@ -89,6 +86,7 @@ body{
   /*color: #5a1eb4;*/
   color: #000000;
 }
+/*MENU BAR (OLD)*/
 .menubar ul {
   list-style: none;
   padding-top:20px;
@@ -113,6 +111,7 @@ body{
   width: 95px;
   padding-right: 75px;
 }
+/*MAIN CONTENT*/
 #content{
   width: 600px;
   float: left;
@@ -144,7 +143,6 @@ body{
   font-size: 12px;
   color: #373737;
 }
-
 #content a {
   color: #1914e9;
   font-weight: bold;
@@ -160,6 +158,7 @@ body{
   padding-top: 10px;
   padding-bottom: 14px;
 }
+/*SIDEBAR*/
 #sidebar{
   float: left;
   height: 400px;
@@ -204,6 +203,7 @@ a.button{
   border-radius: 5px;
   width: 160px;
 }
+/*FOOTER*/
 #footer {
   background: url(photoshop/slices/images/website_layout3_15_footer.jpg) repeat-x;
   padding-top: 40px;
@@ -223,8 +223,4 @@ a.button{
   padding-top: -60px;
   /*padding-bottom: 10px;*/
   padding-left: 150px;
-}
-img.header{
-  display: inline-block;
-  margin: 0 auto;
 }
