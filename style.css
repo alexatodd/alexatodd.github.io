@@ -4,7 +4,7 @@ body{
   /*background-color: #495b30;*/
   /*background-color: #150b6c;*/
   background-color: #242424;
-  background: url(images/wis398-01.ngsversion.1461337441394.adapt.768.1.jpg) no-repeat;
+  background: url(images/COPY_wis398-01.ngsversion.1461337441394.adapt.768.1.jpg) no-repeat;
   background-size: cover;
 }
 #topmenu{
@@ -45,7 +45,7 @@ body{
   text-decoration: none;
 }
 #topmenu ul li a:hover{
-  color: #1914e9;
+  color: #06a2ef;
   text-decoration:none;
 }
 .container{
