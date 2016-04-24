@@ -49,8 +49,8 @@ body{
   text-decoration:none;
 }
 .container{
-  border: 1px solid;
-  border-color: #000000;
+  /*border: 1px solid;
+  border-color: #000000;*/
   /*border-color: #464444;*/
   /*box-shadow: 1px 1px 5px #595959;*/
   width:1000px;
