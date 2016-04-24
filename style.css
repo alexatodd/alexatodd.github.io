@@ -218,6 +218,7 @@ a.button{
   float: left;
   /*background-color: #818181;*/
   padding-left: 20px;
+  padding-bottom: 20px;
 }
 #footer #compass{
   float: left;
